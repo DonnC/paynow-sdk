@@ -18,9 +18,12 @@ Python SDK for Paynow Payment Gateway - sdk that just works!
 
 # Setup
 
-1. Clone this repository
-2. Install dependencies
-3. Get that money
+1. Install dependencies
+2. Get that money
+
+```bash
+$ pip install git+https://github.com/DonnC/paynow-sdk.git
+```
 
 # Multi Currency Support
 To support for multi currency, Paynow requires that you create each integration keys per currency.
