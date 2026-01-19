@@ -1,4 +1,4 @@
-# Paynow SDK
+# [Paynow](https://www.paynow.co.zw/) SDK
 Python SDK for Paynow Payment Gateway - sdk that just works!
 
 > This a fork rework of the official Paynow Python SDK
